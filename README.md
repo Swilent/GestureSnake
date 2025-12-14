@@ -13,7 +13,7 @@
 - 灵感来源于 [Bilibili 教程](https://www.bilibili.com/video/BV17L411P7gi)
 - 基础实现来自 [WLHSDXN/Project2](https://github.com/WLHSDXN/Project2/tree/main/SnakeGame)
 - [cvzone](https://github.com/cvzone/cvzone) 提供手势追踪模块
-- [MediaPipe](https://mediapipe.dev/) 提供手势检测技术
+- [MediaPipe]([https://mediapipe.dev/](https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-cn)) 提供手势检测技术
 
 ## 📋 目录
 
