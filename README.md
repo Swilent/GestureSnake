@@ -109,8 +109,7 @@ SnakeGame/
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/your-username/SnakeGame.git
-   cd SnakeGame
+   git clone https://github.com/Swilent/GestureSnake.git
    ```
 
 2. **安装依赖**
