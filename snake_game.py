@@ -9,7 +9,6 @@ import cvzone
 import cv2
 import numpy as np
 from collections import deque
-import time
 from game_config import *
 
 
