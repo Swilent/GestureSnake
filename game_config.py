@@ -17,7 +17,7 @@ LENGTH_INCREASE = 50  # 每次吃食物增加的长度
 
 # 食物配置
 FOOD_MARGIN = 100  # 食物与边缘的距离
-FOOD_IMAGE = "donut.png"
+FOOD_IMAGE = "apple.png"
 
 # 碰撞检测配置
 COLLISION_THRESHOLD = 15  # 碰撞检测阈值（像素）

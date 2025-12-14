@@ -55,7 +55,7 @@ SnakeGame/
 ├── snake_game.py           # 核心游戏逻辑
 ├── ui_manager.py           # UI 界面管理
 ├── hand_detector.py        # 手势检测模块
-├── donut.png              # 食物图片
+├── apple.png              # 食物图片
 └── README.md              # 本文件
 ```
 
